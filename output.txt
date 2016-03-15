@@ -1,0 +1,6 @@
+70 seventy
+80 Eighty
+20 twenty
+40 fourty
+10 ten
+30 thirty
